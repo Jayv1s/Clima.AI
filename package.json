@@ -1,0 +1,20 @@
+{
+  "name": "clima.ai",
+  "version": "1.0.0",
+  "description": "This chatbot was made to show the weather based on user location.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Vitor de S. G. (JojiAbel)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-telegram-bot-api": "^0.40.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
