@@ -1,6 +1,6 @@
-# Clima.AÍ
+# :partly_sunny: Clima.AÍ :partly_sunny: 
 
 This is a chatbot that, based on user location, shows the weather forecast.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## :mailbox_with_mail: License
+This software was created for study purposes only. Feel free to try it out.
