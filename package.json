@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "João Vitor de S. G. (JojiAbel)",
+  "author": "João Vitor de S. G. (Jayv1s)",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.19.2",
