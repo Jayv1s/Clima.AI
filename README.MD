@@ -5,7 +5,7 @@ This is a chatbot that, based on a user-reported(current or another) location, s
 > :warning: **This project is in production, so you maybe encounter files incomplete and non-functional**: Be very careful here!
 
 ## :pencil: Conversation Flow :pencil:
-![Design Process](https://user-images.githubusercontent.com/50921035/79346359-a3a22580-7f08-11ea-9796-5fe32b8fd5b2.png)
+![Design Process](https://user-images.githubusercontent.com/50921035/79347095-99345b80-7f09-11ea-97ae-4d1b0d33e5b8.png)
 
 Infographic made using [Canva](https://www.canva.com/).
 ## :wrench: Some tools used :wrench:
