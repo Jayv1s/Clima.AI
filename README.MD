@@ -1,6 +1,6 @@
 # :partly_sunny: Clima.AÍ :partly_sunny: 
 
-This is a chatbot that, based on a user-reported(current or another) location, shows the weather forecast.
+This is a Telegram chatbot that, according on a user-reported(current or another) location, shows the weather forecast.
 
 > :warning: **This project is in production, so you maybe encounter files incomplete and non-functional**: Be very careful here!
 
